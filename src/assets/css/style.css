@@ -1,0 +1,17 @@
+.formcolor {
+    justify-content: center;
+    padding: 20px;
+    background-color: #000000;
+    opacity: 0.7;
+    
+
+}
+.HomePage {
+      text-align: center;
+      background-size: cover;
+      min-height: 500px;
+      background-image:url(../../Images/banner6.jpg)
+      ;
+ 
+  
+  }
